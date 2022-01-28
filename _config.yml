@@ -1,16 +1,15 @@
 # Site settings
 title: Iure Radin
-description: Portifolio Iure Radin
+description: Portfolio Iure Radin
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://iureradin.github.io"
 
 # User settings
 username: Iure Radin
-user_description: Em busca de uma opotunidade como DevOps Jr
+user_description: Looking for a DevOps Jr Opportunity
 user_title: DevOps
 email: iureradin@gmail.com
 twitter_username: iureradin
 github_username:  iureradin
-# gplus_username:  lorem_ipsum
 
 exclude: ['package.json', 'src' , 'node_modules']
